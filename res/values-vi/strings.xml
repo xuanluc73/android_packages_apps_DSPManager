@@ -13,13 +13,13 @@
     <string name="pref_dsp_summary_on">Compression is enabled</string>
     <string name="pref_dsp_summary_off">Compression is disabled</string>
     <string name="pref_dsp_enable">Bật</string>
-    <string name="pref_effect_title">Chọn hiệu ứng mạnh</string>
+    <string name="pref_effect_title">Chọn hiệu ứng</string>
     <string name="dialog_effect">Hiệu ứng</string>
-    <string name="pref_equalizer_title">Equalizer</string>
-    <string name="pref_equalizer_summary_on">Equalizer is enabled</string>
-    <string name="pref_equalizer_summary_off">Equalizer is disabled</string>
+    <string name="pref_equalizer_title">Bộ chỉnh âm</string>
+    <string name="pref_equalizer_summary_on">Đã bật bộ chỉnh âm</string>
+    <string name="pref_equalizer_summary_off">Đã tắt bộ chỉnh âm</string>
     <string name="pref_equalizer_enable">Bật</string>
-    <string name="pref_equalizer_preset_title">Chọn cài đặt trước</string>
+    <string name="pref_equalizer_preset_title">Chọn cài đặt sẵn</string>
     <string name="pref_equalizer_loudness_title">Loudness compensation</string>
     <string name="pref_bassboost_title">Âm trầm</string>
     <string name="pref_bassboost_summary_on">Đã bật âm trầm</string>
@@ -33,10 +33,10 @@
     <string name="dialog_room">Kiểu phòng</string>
     <string name="menu_reset">Thiết lập lại</string>
 
-    <string name="eq_preset_acoustic">Âm thanh</string>
+    <string name="eq_preset_acoustic">Âm hưởng</string>
     <string name="eq_preset_bass_booster">Tăng âm trầm</string>
     <string name="eq_preset_bass_reducer">Giảm âm trầm</string>
-    <string name="eq_preset_classical">Bình thường</string>
+    <string name="eq_preset_classical">Cổ điển</string>
     <string name="eq_preset_deep">Sâu</string>
     <string name="eq_preset_flat">Flat</string>
     <string name="eq_preset_r_and_b">R&amp;B</string>
@@ -44,6 +44,6 @@
     <string name="eq_preset_small_speakers">Loa nhỏ</string>
     <string name="eq_preset_treble_booster">Tăng âm cao</string>
     <string name="eq_preset_treble_reducer">Giảm âm cao</string>
-    <string name="eq_preset_vocal_booster">Tăng thanh nhạc</string>
+    <string name="eq_preset_vocal_booster">Tăng giai điệu</string>
     <string name="eq_preset_custom">Tùy chỉnh</string>
 </resources>
