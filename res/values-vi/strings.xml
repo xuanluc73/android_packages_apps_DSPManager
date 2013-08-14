@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Quản lý DSP</string>
+    <string name="select_configuration_title">Chọn cấu hình để chỉnh sửa</string>
+    <string name="headset_title">Tai nghe</string>
+    <string name="speaker_title">Loa điện thoại</string>
+    <string name="bluetooth_title">Thiết bị Bluetooth</string>
+    <string name="audio_effects">Hiệu ứng âm thanh</string>
+    <string name="dsp_settings_headset">Thiết lập DSP - Tai nghe</string>
+    <string name="dsp_settings_speaker">Thiết lập DSP - Loa điện thoại</string>
+    <string name="dsp_settings_bluetooth">Thiết lập DSP - Thiết bị Bluetooth</string>
+    <string name="pref_dsp_title">Dynamic Range Compression</string>
+    <string name="pref_dsp_summary_on">Compression is enabled</string>
+    <string name="pref_dsp_summary_off">Compression is disabled</string>
+    <string name="pref_dsp_enable">Bật</string>
+    <string name="pref_effect_title">Chọn hiệu ứng mạnh</string>
+    <string name="dialog_effect">Hiệu ứng mạnh</string>
+    <string name="pref_equalizer_title">Equalizer</string>
+    <string name="pref_equalizer_summary_on">Equalizer is enabled</string>
+    <string name="pref_equalizer_summary_off">Equalizer is disabled</string>
+    <string name="pref_equalizer_enable">Bật</string>
+    <string name="pref_equalizer_preset_title">Chọn cài đặt trước</string>
+    <string name="pref_equalizer_loudness_title">Giảm tiếng ồn</string>
+    <string name="pref_bassboost_title">Âm trầm</string>
+    <string name="pref_bassboost_summary_on">Đã bật âm trầm</string>
+    <string name="pref_bassboost_summary_off">Đã tắt âm trầm</string>
+    <string name="pref_bassboost_enable">Tắt</string>
+    <string name="pref_headset_virtual_title">Headset Virtual Room Effect</string>
+    <string name="pref_headset_virtual_summary_on">Headset Virtual Room is enabled</string>
+    <string name="pref_headset_virtual_summary_off">Headset Virtual Room is disabled</string>
+    <string name="pref_headset_virtual_enable">Bật</string>
+    <string name="pref_room_title">Select Room Type</string>
+    <string name="dialog_room">Room Type</string>
+    <string name="menu_reset">Reset</string>
+
+    <string name="eq_preset_acoustic">Âm thanh</string>
+    <string name="eq_preset_bass_booster">Tăng âm trầm</string>
+    <string name="eq_preset_bass_reducer">Giảm âm trầm</string>
+    <string name="eq_preset_classical">Bình thường</string>
+    <string name="eq_preset_deep">Deep</string>
+    <string name="eq_preset_flat">Flat</string>
+    <string name="eq_preset_r_and_b">R&amp;B</string>
+    <string name="eq_preset_rock">Rock</string>
+    <string name="eq_preset_small_speakers">Small Speakers</string>
+    <string name="eq_preset_treble_booster">Treble Booster</string>
+    <string name="eq_preset_treble_reducer">Treble Reducer</string>
+    <string name="eq_preset_vocal_booster">Vocal Booster</string>
+    <string name="eq_preset_custom">Custom</string>
+</resources>
