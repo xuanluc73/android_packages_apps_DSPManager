@@ -32,12 +32,12 @@
 
     <string-array name="equalizer_loudness_modes">
         <item>Vô hiệu hóa</item>
+        <item>Rất yếu</item>
+        <item>Hơi yếu</item>
         <item>Yếu</item>
-        <item>Yếu</item>
-        <item>Weak</item>
-        <item>Strong</item>
-        <item>Stronger</item>
-        <item>Strongest</item>
+        <item>Mạnh</item>
+        <item>Mạnh mẽ</item>
+        <item>Rất mạnh</item>
     </string-array>
 
     <string-array name="equalizer_loudness_values" translatable="false">
